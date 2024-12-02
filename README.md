@@ -83,11 +83,18 @@ To install `Tesseract-OCR`, follow the instructions for your operating system:
 ```
 project/
 │
-├── main.py               # Main script to execute the project
-├── requirements.txt      # List of dependencies
-├── README.md             # Project documentation
-├── input/                # Folder to store input images
-└── output/               # Folder to store processed images
+├── main/
+│   ├── static/                  # Static files for the project
+│   │   ├── css/                 # Stylesheets
+│   │   └── uploads/             # Uploaded images or files
+│   │
+│   ├── templates/               # HTML templates for the web app
+│   │   ├── index.html           # Main input page for the user
+│   │   └── output.html          # Output page to display results
+│   │
+│   └── main.py                  # Main Python script for running the project
+│
+└── README.md                    # Project documentation
 ```
 
 ---
