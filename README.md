@@ -51,7 +51,7 @@ This project is designed to process images by performing two key functions:
 ## Example
 
 ### Input  
-![Example Input](path/to/example-input.jpg)
+![Example Input](https://1drv.ms/i/c/009371ac12eb23af/EdKCv1dcC5tLvgyNbxEdsisBUyUFbvTWTttqz_fvV9Tfkg?e=fTAQ7u)
 
 ### Output
 - **Extracted Text**:  
