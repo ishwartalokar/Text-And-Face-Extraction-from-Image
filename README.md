@@ -51,7 +51,7 @@ This project is designed to process images by performing two key functions:
 ## Example
 
 ### Input  
-![Example Input](https://1drv.ms/i/c/009371ac12eb23af/EdKCv1dcC5tLvgyNbxEdsisBUyUFbvTWTttqz_fvV9Tfkg?e=fTAQ7u)
+![Example Input](https://github.com/ishwartalokar/Text-And-Face-Extraction-from-Image/blob/main/idimage.jpg)
 
 ### Output
 - **Extracted Text**:  
