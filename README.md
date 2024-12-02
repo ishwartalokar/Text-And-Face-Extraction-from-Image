@@ -59,7 +59,7 @@ This project is designed to process images by performing two key functions:
   This is an example text extracted from the image.
   ```
 - **Detected Faces**:  
-  ![Example Output](path/to/example-output.jpg)
+  ![Example Output](https://github.com/ishwartalokar/Text-And-Face-Extraction-from-Image/blob/main/output.png)
 
 ---
 
